@@ -1,0 +1,1 @@
+CREATE DOMAIN my_money AS NUMERIC(12, 4);
